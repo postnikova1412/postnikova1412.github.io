@@ -2,7 +2,7 @@
 [Главная страница сайта](https://postnikova1412.github.io)  
 На ней размещены часы
 
-[Игра](https://postnikova1412.github.io/games.html)  
+[Игра](https://postnikova1412.github.io/game.html)  
 Классическая игра Понг
 
 Другие ссылки  
