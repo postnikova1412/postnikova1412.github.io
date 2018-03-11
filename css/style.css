@@ -1,5 +1,7 @@
 body {
-	background:url(../fon.jpg)
+	background-color:#EFD971;
+	background:url(../fon.jpg);
+	background-repeat:no-repeat;
 	}
 .div1 {
 	display:block;
